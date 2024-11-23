@@ -1,6 +1,6 @@
 import styles from './style';
-// eslint-disable-next-line no-unused-vars
-import { Navbar, Hero , Stats , Business , Billing, Carddealnials, Clients , CTA , Footer, CardDeal    } from './components';
+
+import { Navbar, Hero , Stats , Business , Billing,  Clients , CTA , Footer, CardDeal    } from './components';
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
 	<div className={`${styles.paddingX} ${styles.flexCenter}`}>
